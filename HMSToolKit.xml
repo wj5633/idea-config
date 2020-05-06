@@ -1,6 +1,8 @@
 <application>
   <component name="HMSToolKitPlugin">
+    <option name="countryRegionCode" value="CN" />
     <option name="defaultRegionCode" value="CN" />
+    <option name="useAgreementVersion" value="3" />
     <option name="userId" value="3ff378ca-dcc3-489b-8973-8484ebcd0cb0" />
   </component>
 </application>
